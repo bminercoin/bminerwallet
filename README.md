@@ -2,7 +2,7 @@
 
 The universal desktop GUI wallet for BminerCoin
 
-![Logo](/Bminercoinnestlogo.png)
+![Logo](https://github.com/bminercoin/bminer/blob/master/src/config/bminer.png)
 
 ## Installation
 
